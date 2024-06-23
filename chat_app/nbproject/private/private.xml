@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/chat_app/src/View/Chat.java</file>
+            <file>file:/D:/chat_app/src/Controller/EventFileReceiver.java</file>
+            <file>file:/D:/chat_app/src/Controller/PublicEvent.java</file>
+            <file>file:/D:/chat_app/src/Model/Model_Send_Message.java</file>
+            <file>file:/D:/chat_app/src/Model/Model_Register.java</file>
+            <file>file:/D:/chat_app/src/Model/Model_Receive_Image.java</file>
+            <file>file:/D:/chat_app/src/View/Menu_Left.java</file>
+            <file>file:/D:/chat_app/src/Controller/EventChat.java</file>
+            <file>file:/D:/chat_app/src/com/maven/app/MessageType.java</file>
+            <file>file:/D:/chat_app/src/View/Chat_Left.java</file>
+            <file>file:/D:/chat_app/src/Model/Model_Package_Sender.java</file>
+            <file>file:/D:/chat_app/src/Model/Model_Reques_File.java</file>
+            <file>file:/D:/chat_app/src/View/Chat_Date.java</file>
+            <file>file:/D:/chat_app/src/com/maven/main/Main.java</file>
+            <file>file:/D:/chat_app/src/View/Chat_Title.java</file>
+            <file>file:/D:/chat_app/src/View/Image_Item.java</file>
+            <file>file:/D:/chat_app/src/Model/Model_ChatHistoryRequest.java</file>
+            <file>file:/D:/chat_app/src/Model/Model_File_Receiver.java</file>
+            <file>file:/D:/chat_app/src/Servide/Service.java</file>
+            <file>file:/D:/chat_app/src/View/Chat_Bottom.java</file>
+            <file>file:/D:/chat_app/src/View/Chat_Right.java</file>
+            <file>file:/D:/chat_app/src/Model/Model_Message.java</file>
+            <file>file:/D:/chat_app/src/com/maven/emoji/Emogi.java</file>
+            <file>file:/D:/chat_app/src/Controller/EventFileSender.java</file>
+            <file>file:/D:/chat_app/src/View/Chat_Left_With_Profile.java</file>
+            <file>file:/D:/chat_app/src/View/Loading.java</file>
+            <file>file:/D:/chat_app/src/View/Login.java</file>
+            <file>file:/D:/chat_app/src/com/maven/emoji/Model_Emoji.java</file>
+            <file>file:/D:/chat_app/src/View/Home.java</file>
+            <file>file:/D:/chat_app/src/View/P_Login.java</file>
+            <file>file:/D:/chat_app/src/Model/Model_Login.java</file>
+            <file>file:/D:/chat_app/src/Model/Model_Receive_Message.java</file>
+            <file>file:/D:/chat_app/src/Controller/EventMenuLeft.java</file>
+            <file>file:/D:/chat_app/src/View/Chat_Body.java</file>
+            <file>file:/D:/chat_app/src/Model/Model_User_Account.java</file>
+            <file>file:/D:/chat_app/src/Controller/EventLogin.java</file>
+            <file>file:/D:/chat_app/src/Controller/EventMessage.java</file>
+            <file>file:/D:/chat_app/src/Model/Model_File_Sender.java</file>
+        </group>
+    </open-files>
+</project-private>
